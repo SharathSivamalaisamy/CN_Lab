@@ -1,2 +1,0 @@
-# CN
-Computer Networks Lab
